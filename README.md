@@ -1,10 +1,8 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mhd+Taha+Daboul;AI+Engineer+%7C+Deep+Learning+%7C+Computer+Vision;Passionate+about+Machine+Learning+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mhd+Taha+Daboul;" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">AI Engineer | Deep Learning | Computer Vision | Data Science</h3>
-
+<h3 align="center">AI Engineer | Deep Learning | Computer Vision | Data Science| Automation</h3>
 ---
 
 <p align="center">
@@ -13,13 +11,13 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 Senior CS student at **Cairo University**  
-- 🤖 Passionate about **AI, ML, DL, and Computer Vision**  
-- 📚 Completed **Andrew Ng’s Machine Learning Specialization** + **CNNs courses**  
-- 🏗️ Current Project: **Medicine Recognition System from Prescriptions**  
-- 🎯 Future Goal: Build **Self-Driving Car AI project** after graduation  
-- ⚡ Fun fact: I love **gaming, football, and coding** ⚽🎮💻  
+### 🚀 About Me
+- 🎓 Graduated in Computer Science from **Cairo University**  
+- 🤖 **AI Engineer** specializing in **AI-driven automation, deep learning, and computer vision**  
+- ⚡ Passionate about building **intelligent systems** that reduce manual effort and optimize workflows  
+- 📚 Completed **Machine Learning Specialization by Andrew Ng**, **Deep Learning (CNNs, LSTMs)**, and **Applied Data Science with Python**  
+- 🏗️ Built projects in **medicine recognition from prescriptions**, **deepfake image classification**, and **data-driven automation**  
+- 🎯 Goal: Advance in **AI-powered automation** (self-driving cars, process optimization, smart assistants)  
 
 ---
 
