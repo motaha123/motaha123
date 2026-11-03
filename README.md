@@ -179,20 +179,16 @@ An open, source-per-row dataset of Syrian fuel price decisions from 1970 to 2026
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motaha123&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motaha123&layout=compact&theme=tokyonight&hide_border=false" height="220"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=motaha123&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="220"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=motaha123&layout=compact&theme=tokyonight&hide_border=false" height="220"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=motaha123&theme=tokyonight&hide_border=false&border_radius=10" height="220"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=motaha123&theme=tokyonight&hide_border=false&border_radius=10" height="220"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=motaha123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=motaha123&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://ghchart.rshah.org/00f7ff/motaha123" alt="Contributions" width="95%"/>
 </p>
 
 ---
